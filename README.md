@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Adoniyas Wujira</h1>
 <h3 align="center">Passionate CS & Economics with Data science track undergrad at UChicago exploring AI engineering, data pipelines, and secure system design.</h3>
 
